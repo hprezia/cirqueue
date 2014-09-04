@@ -28,3 +28,10 @@ config/secrets.yml
 
 # vim swap files
 *.swp
+
+
+
+
+# Project files
+/spec/design/images
+
